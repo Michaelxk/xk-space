@@ -44,7 +44,6 @@ img {
   max-width: 100%;
  }
  .search {
-
    margin-top: 5em;
  }
  .form-control {
