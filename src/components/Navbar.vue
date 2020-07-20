@@ -17,6 +17,9 @@ export default {
 }
 </script>
 <style scoped>
+.navbar-light {
+  box-shadow: 0px 7px 15px 0px rgba(0,0,0,0.38);
+}
 .navbar-brand {
   color: #fff;
   font-size: 1.5em;
